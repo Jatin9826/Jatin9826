@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm JATIN KUMAR</h1>
 <h3 align="center">❤️ I am passionate about exploring the intersection of technology and innovation, diving deep into machine learning and AI, and contributing to open-source projects that make a difference.</h3>
-
+<div align="center">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn3lUmoDswMmnxRfkGDZGVt7LXq48TBWp2rMFlAYOD4w&s" alt="Background Image">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin9826&label=Profile%20views&color=0e75b6&style=flat" alt="jatin9826" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
